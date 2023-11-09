@@ -1,1 +1,1 @@
-# Assignment-Intern-Qt-MediaPlayer
+# Assignment-for-Intern-Test-using-Qt-Framework
